@@ -78,6 +78,11 @@ body {
     border-radius: 15px;
 }
 
+.profile-body:hover {
+    cursor: pointer;
+    background-color: #33397A;
+}
+
 .profile-text {
     display: flex;
     justify-content: space-between;
@@ -130,6 +135,11 @@ body {
   width: 327px;
   height: 122px;
   color: #fff;
+}
+
+.card-body:hover {
+    cursor: pointer;
+    background-color: #33397A;
 }
 
 .card-subtitle {
